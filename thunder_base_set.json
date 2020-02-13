@@ -655,7 +655,9 @@
                         "translatable": true,
                         "cardinality": -1,
                         "target_type": "taxonomy_term",
-                        "target_bundles": [],
+                        "target_bundles": [
+                            "bundle_5"
+                        ],
                         "histogram": {
                             "1": 326,
                             "2": 678,
